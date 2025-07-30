@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="assests/deep.png", alt = "Project Header", width = "800"/>
+  <img src="assests/deep.png" alt = "Project Header" height = "400" width = "1000" />
 </p>
 
 ---
