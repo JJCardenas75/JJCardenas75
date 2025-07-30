@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=28&pause=1000&color=0E0E0E&center=true&vCenter=true&width=600&lines=Hello,+I’m+Juan+José!;PhD+Candidate+in+Electrical+Engineering" alt="Typing SVG"/>
+  <img src="assests/deep.png", alt = "Project Header", width = "800"/>
 </p>
 
 ---
