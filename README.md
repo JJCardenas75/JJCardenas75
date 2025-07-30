@@ -12,7 +12,7 @@
 
 ## 📖 About Me
 
-I’m **Juan José**, a PhD candidate in **Electrical Engineering** specializing in **Artificial Intelligence**, **Computer Vision**, **Machine Learning**, and **Deep Learning**.  
+I’m **Juan José**, a PhD candidate in **Electrical Engineering** with a specialization in **Artificial Intelligence**, **Computer Vision**, **Machine Learning**, and **Deep Learning**.  
 My research focuses on applied fault detection in electric motors and short-term energy consumption forecasting using quaternion-based methods.
 
 - 🎓 **Education:**  
@@ -53,7 +53,7 @@ My research focuses on applied fault detection in electric motors and short-term
 
 ### 4. Custom Deep Learning Algorithms
 - **Repo**: [DCNN]
-- **Description:** Collection of model for deep learning
+- **Description:** Collection of models for deep learning
 - **Tehcnologies:** Python, PyTorch
 
 ---
